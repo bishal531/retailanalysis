@@ -1,4 +1,4 @@
-# EDA on Retail Sales Data - Oasis Infobyte Internship
+# EDA on Retail Sales Data
 
 ## Project Overview
 This project performs an extensive Exploratory Data Analysis (EDA) on retail sales data to uncover patterns, trends, and insights that can help retail businesses make informed decisions.

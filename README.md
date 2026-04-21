@@ -1,11 +1,11 @@
-# Oasis Infobyte Internship - Data Analytics
+# Retail Sales Analytics Project
 
-This repository contains projects from the Oasis Infobyte 4-week intensive internship in data analytics.
+A comprehensive data analytics project featuring exploratory data analysis and interactive dashboarding of retail sales data.
 
-## Program Overview
-- **Duration**: 4 weeks
-- **Focus**: Python programming & hands-on data analytics projects
-- **Requirements**: Complete minimum 3 projects (from Level 1/Level 2)
+## Project Overview
+- **Type**: Data Analytics & Visualization
+- **Focus**: Exploratory Data Analysis with Interactive Dashboard
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Plotly, Streamlit
 
 ## Projects Completed
 
@@ -77,7 +77,7 @@ python eda_retail_sales.py
 8. [ ] Share on LinkedIn
 
 ## Author
-Intern - Oasis Infobyte
+Author: bishal531
 
 ## Links
 - Kaggle Datasets: https://www.kaggle.com/

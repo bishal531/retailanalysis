@@ -1,6 +1,6 @@
 """
 EDA on Retail Sales Data
-Oasis Infobyte Internship Project 1
+Author: bishal531
 """
 
 import pandas as pd

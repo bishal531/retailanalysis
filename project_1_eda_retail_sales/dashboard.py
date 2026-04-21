@@ -1,6 +1,6 @@
 """
 Interactive Streamlit Dashboard for Retail Sales EDA
-Oasis Infobyte Internship Project 1
+Author: bishal531
 """
 
 import streamlit as st
@@ -329,7 +329,7 @@ st.dataframe(
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center'>
-    <p>📊 Retail Sales Analytics Dashboard | Oasis Infobyte Internship Project 1</p>
+    <p>📊 Retail Sales Analytics Dashboard | Author: bishal531</p>
     <p>Created with Streamlit | Data Analysis & Visualization</p>
     </div>
     """, unsafe_allow_html=True)

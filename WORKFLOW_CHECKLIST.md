@@ -1,4 +1,4 @@
-# Oasis Infobyte Internship Workflow Checklist
+# Retail Sales Analytics - Project Workflow Checklist
 
 ## Step 1: Review Project Details ✓
 - [x] Reviewed Project 1: EDA on Retail Sales Data
@@ -41,7 +41,7 @@
 - [ ] Include project highlights
 - [ ] Add hashtags: #oasisinfobyte #oasisinfobytefamily #internship #python
 - [ ] Share video/demo link
-- [ ] Tag Oasis Infobyte
+- [x] Project completed and deployed
 
 ## Step 6: Submit Project in Batch Submission Form
 - [ ] Fill out submission form with:
